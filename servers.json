@@ -1,0 +1,16 @@
+{
+	"eu":[
+			{"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"}
+		],
+	"us":[
+			{"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"},
+			{"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"}
+		]
+}
