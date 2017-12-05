@@ -1,0 +1,522 @@
+{
+"ads":{
+"pub":{
+"android":{
+"interstitial":"ca-app-pub-1541772995998704/8081165694",
+"banner":"ca-app-pub-1541772995998704/5708075807"
+},
+"ios":{
+"interstitial":"ca-app-pub-1541772995998704/8081165694",
+"banner":"ca-app-pub-1541772995998704/5708075807"
+}
+}
+},
+"servers":{
+"eu":[
+{
+"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"
+}
+],
+"us":[
+{
+"api_url":"http:\/\/ytdl-adminia.us-3.evennode.com"
+}
+]
+},
+"toplists":{
+"tr":[
+{
+"title":"Eteği Belinde",
+"description":"Manuş Baba",
+"id":"vyXOEGyjQ0Q",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/vyXOEGyjQ0Q\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Ağlar mıyım Ağlamam",
+"description":"Ziynet Sali",
+"id":"WyGnyJZN3bI",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/WyGnyJZN3bI\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Aşinayız",
+"description":"Murat Dalkılıç ft Oğuzhan Koç",
+"id":"8Z6Ral7DG10",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/8Z6Ral7DG10\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Sen Olsan Bari",
+"description":"Aleyna Tilki",
+"id":"yJpJCZYTL74",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/yJpJCZYTL74\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Ya bu işler Ne",
+"description":"Mabel Matiz",
+"id":"8vHqe9JA1k0",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/8vHqe9JA1k0\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Takvim ",
+"description":"Bahadır Tatlıöz",
+"id":"5tagYL3W1rk",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/5tagYL3W1rk\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Benden Sonra",
+"description":"Hande Yener",
+"id":"lDUBXXEbjxM",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/lDUBXXEbjxM\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Vermem Seni Ellere",
+"description":"Oğuzhan Koç",
+"id":"BYBGnwwfh9A",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/BYBGnwwfh9A\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"İnceden İnceden",
+"description":"Tuğba Yurt",
+"id":"Tb-zjsEqr1k",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/Tb-zjsEqr1k\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Bazı Aşklar Yarım Kalmalı ",
+"description":"İrem Derici",
+"id":"cng8oShBQVw",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/cng8oShBQVw\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Sahiden",
+"description":"Buray",
+"id":"ytbhQ7cSA_k",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/ytbhQ7cSA_k\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Geçti O Günler",
+"description":"Mustafa Ceceli",
+"id":"ivyT9L0YCIU",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/ivyT9L0YCIU\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Gel be Gökyüzüm",
+"description":"İlyas Yalçıntas",
+"id":"mY8BZsIgg74",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/mY8BZsIgg74\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Çok Çok",
+"description":"Edis",
+"id":"-8cFfkyk7vA",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/-8cFfkyk7vA\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Sıfır Tolerans",
+"description":"Hadise",
+"id":"sui9MKrDnQk",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/sui9MKrDnQk\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Boynun Borcu",
+"description":"Erdem Kınay ft Merve Özbey",
+"id":"SlwiPdQb_TE",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/SlwiPdQb_TE\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Damga Damga",
+"description":"Demet Akalın",
+"id":"xjSk_tLuUbo",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/xjSk_tLuUbo\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Sayın Seyirciler",
+"description":"Ozan Doğulu ft Ece Seçkin",
+"id":"SsZVIvvYKd0",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/SsZVIvvYKd0\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"İhanetten Geri Kalan",
+"description":"Sezen Aksu",
+"id":"D-i77gTIEWM",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/D-i77gTIEWM\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"Nabız 180",
+"description":"Derya Uluğ",
+"id":"dopBA3sForI",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/dopBA3sForI\/hqdefault.jpg"
+}
+}
+}
+],
+"en":[
+{
+"title":"COLONEL BAGSHOT",
+"description":"SIX DAYS (MAHMUT ORHAN REMIX)",
+"id":"A2HaC6vuRR8",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/A2HaC6vuRR8\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"ROMPASSO",
+"description":"ANGETENAR",
+"id":"OZafwTE1q4Q",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/OZafwTE1q4Q\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"MC FIOTI ft. KONDZILLA",
+"description":"BUM BUM TAM TAM",
+"id":"_P7S2lKif-A",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/_P7S2lKif-A\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"INNA ft. ERIK",
+"description":"RULETA",
+"id":"ax9ge-ymWIQ",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/ax9ge-ymWIQ\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"WILLY WILLIAM ft. J. BALVIN",
+"description":"MI GENTE",
+"id":"wnJ6LuUFpMo",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/wnJ6LuUFpMo\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"DEEPERISE ft. JABBAR",
+"description":"MOVE ON",
+"id":"q_e2aKEtW18",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/q_e2aKEtW18\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"CAMELPHAT & ELDERBROOK",
+"description":"COLA",
+"id":"qke-jOUqSXU",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/qke-jOUqSXU\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"CAMILA CABELLO ft. YOUNG THUG",
+"description":"HAVANA",
+"id":"BQ0mxQXmLsk",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/BQ0mxQXmLsk\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"NO METHOD",
+"description":"LET ME GO",
+"id":"lcOtPV352H8",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/lcOtPV352H8\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"LP",
+"description":"WHEN WE'RE HIGH (REMIX)",
+"id":"lfkgOWrd1vc",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/lfkgOWrd1vc\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"FUTURE",
+"description":"MASK OFF (MARSHMELLO REMIX)",
+"id":"I-tA87zOeW0",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/I-tA87zOeW0\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"BUSTA RHYMES",
+"description":"TOUCH IT",
+"id":"82PsUyCKuUc",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/82PsUyCKuUc\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"POST MALONE",
+"description":"ROCKSTAR",
+"id":"4GFAZBKZVJY",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/4GFAZBKZVJY\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"BOLIER ft. AREM ÖZGÜÇ & ARMAN AYDIN",
+"description":"IMAGINE",
+"id":"rXxaU3XDK24",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/rXxaU3XDK24\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"TODDLA ft. ANDREA MARTIN",
+"description":"MAGNET",
+"id":"NLYJrVYv90g",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/NLYJrVYv90g\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"ALICE MERTON",
+"description":"NO ROOTS",
+"id":"PUdyuKaGQd4",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/PUdyuKaGQd4\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"CHARLIE PUTH",
+"description":"ATTENTION (REMIX)",
+"id":"x4X9dYxutGo",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/x4X9dYxutGo\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"IMAGINE DRAGONS",
+"description":"BELIEVER (REMIX)",
+"id":"7wtfhZwyrcc",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/7wtfhZwyrcc\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"CALVIN HARRIS ft. KATY PERRY & PHARRELL",
+"description":"FEELS",
+"id":"ozv4q2ov3Mk",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/ozv4q2ov3Mk\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"PORTUGAL THE MAN",
+"description":"FEEL IT STILL (REMIX)",
+"id":"P2K7kJH9hWA",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/P2K7kJH9hWA\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"ZAYN MALIK ft. SIA",
+"description":"DUSK TIL DOWN (FESTO REMIX)",
+"id":"tt2k8PGm-TI",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/tt2k8PGm-TI\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"MAHMUT ORHAN ft. ENELI",
+"description":"SAVE ME",
+"id":"FZ_paWpT9Mo",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/FZ_paWpT9Mo\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"FRENCH MONTANA",
+"description":"UNFORGETTABLE (MAJOR LAZOR RMX)",
+"id":"CTFtOOh47oo",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/CTFtOOh47oo\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"LUIS FONSI ft. DADY YANKEE & JUSTIN BIEBER",
+"description":"DESPACITO",
+"id":"kJQP7kiw5Fk",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/kJQP7kiw5Fk\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"HAKAN AKKUS",
+"description":"I CAN'T BE (EYÜP ÇELİK REMIX)",
+"id":"UurfKqcVwSM",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/UurfKqcVwSM\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"DJ KHALED ft. RIHANNA & BRYSON TILLER",
+"description":"WILD THOUGHTS",
+"id":"fyaI4-5849w",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/fyaI4-5849w\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"ANNE MARIE",
+"description":"CIAO ADIOS (REMIX)",
+"id":"qqob4D3BoZc",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/qqob4D3BoZc\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"TAYLOR SWIFT",
+"description":"LOOK WHAT YOU MADE ME DO",
+"id":"3tmd-ClpJxA",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/3tmd-ClpJxA\/hqdefault.jpg"
+}
+}
+},
+{
+"title":"SHAKIRA",
+"description":"ME ENAMORE",
+"id":"sPTn0QEhxds",
+"thumbnails":{
+"high":{
+"url":"https:\/\/i.ytimg.com\/vi\/sPTn0QEhxds\/hqdefault.jpg"
+}
+}
+}
+]
+}
+}
