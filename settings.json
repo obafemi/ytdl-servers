@@ -14,7 +14,7 @@
 "servers":{
 "eu":[
 {
-"api_url":"http:\/\/ytdl-adegirmencis.eu-4.evennode.com"
+"api_url":"http:\/\/aydindegirmenci.eu-4.evennode.com"
 }
 ],
 "us":[
@@ -24,7 +24,7 @@
 ],
 "tr":[
 {
-"api_url":"http:\/\/ytdl-halilokuz.eu-4.evennode.com"
+"api_url":"http:\/\/aydindegirmenci.eu-4.evennode.com"
 }
 ]
 },
