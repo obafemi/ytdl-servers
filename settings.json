@@ -14,7 +14,7 @@
 "servers":{
 "eu":[
 {
-"api_url":"http:\/\/aydindegirmenci2.eu-4.evennode.com/"
+"api_url":"http:\/\/aydindegirmenci2.eu-4.evennode.com"
 }
 ],
 "us":[
@@ -24,7 +24,7 @@
 ],
 "tr":[
 {
-"api_url":"http:\/\/aydindegirmenci2.eu-4.evennode.com/"
+"api_url":"http:\/\/aydindegirmenci2.eu-4.evennode.com"
 }
 ]
 },
